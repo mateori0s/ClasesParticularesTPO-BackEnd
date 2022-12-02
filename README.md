@@ -27,5 +27,7 @@ Se pueden probar los endpoints.
 _Dejamos algunas credenciales de usuarios ya creados._
 
 Mail | Contraseña | Rol
-profesor@mail.com | profe123 | Profesor
-alumno@mail.com | alumno123 | Alumno
+
+-profesor@mail.com | profe123 | Profesor
+
+-alumno@mail.com | alumno123 | Alumno
