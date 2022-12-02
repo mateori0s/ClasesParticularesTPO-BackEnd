@@ -15,6 +15,7 @@ _Estas instrucciones te permitirán obtener una copia del proyecto en funcionami
 
 _Instalar dependencias del proyecto_
 
+(antes de instalarlo, ubicarse  dentro de la carpeta 'api')
 npm install
 
 _Luego ejecutar el comando:_
